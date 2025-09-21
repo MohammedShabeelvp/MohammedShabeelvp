@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shabeel VP</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">Hello! I' m a BTech computer science student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field. I have experience in web development and I enjoy working on projects that challenge me to learn and grow.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
