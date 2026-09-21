@@ -1,9 +1,131 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shabeel VP</h1>
-<h3 align="center">Hello! I' m a BTech computer science student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field. I have experience in web development and I enjoy working on projects that challenge me to learn and grow.</h3>
+# Hi 👋, I'm Mohammed Shabeel V P
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Data Scientist | AI/ML Developer | Python | SQL | NLP
+
+I'm a Computer Science Engineering graduate/student focused on building practical solutions with **Data Science, Machine Learning, NLP, and software development**.
+
+I enjoy turning raw data and ideas into useful applications — from machine learning models and analytics dashboards to AI-powered web applications.
+
+---
+
+## 🚀 What I'm Working On
+
+* 🤖 Machine Learning & AI applications
+* 🧠 Natural Language Processing
+* 📊 Data analysis and visualization
+* 🌐 AI-powered web applications
+* 🔬 Deep Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Python · NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn · NLP · Machine Learning · Deep Learning**
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,django,fastapi,html,css,tailwind" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws" />
+</p>
+
+**Power BI · Tableau · Jupyter Notebook · PostgreSQL**
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+AI-powered resume analysis application that evaluates resumes and provides insights based on job requirements.
+
+**Tech:** Python · NLP · Machine Learning · React · REST API
+
+---
+
+### 🍽️ Dine-In Restaurant Platform
+
+A modern restaurant platform for QR-based dining, menu browsing, order management, and staff operations.
+
+**Tech:** React · Vite · Tailwind CSS · Django REST API
+
+---
+
+### 📊 Machine Learning Projects
+
+Collection of practical machine learning projects involving:
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Classification
+* Regression
+* Model evaluation
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
+
+---
+
+### 🎮 Outbreak
+
+**Outbreak** is a single-player first-person zombie survival game developed using Unreal Engine 5.
+
+**Tech:** Unreal Engine 5 · Blueprints · C++
+
+---
+
+## 📈 Currently Learning
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+NLP
+       ↓
+LLMs & Generative AI
+       ↓
+AI Application Development
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShabeelvp&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShabeelvp&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+### 💡 Build. Learn. Experiment. Repeat.
+
+I'm always interested in learning new technologies, building projects, and solving real-world problems with code.
