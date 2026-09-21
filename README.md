@@ -110,8 +110,8 @@ AI Application Development
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShabeelvp&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShabeelvp&layout=compact&theme=transparent" />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ AI Application Development
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mohammedshabeelvp/">
     LinkedIn
   </a>
 </p>
